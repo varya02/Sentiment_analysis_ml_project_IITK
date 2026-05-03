@@ -1,0 +1,8 @@
+Big-data training complete
+
+Accuracy summary:
+sentiment_rf: 0.777
+topic_hgb: 0.954
+urgency_lr: 0.892
+
+Best model: topic_hgb (0.954)
